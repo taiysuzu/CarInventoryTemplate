@@ -13,6 +13,7 @@ namespace CarInventory
     {
         List<Car> inventory = new List<Car>();
         Car newCar;
+
         public Form1()
         {
             InitializeComponent();
